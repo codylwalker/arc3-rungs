@@ -1,0 +1,24 @@
+{
+ "game_id": "g5ua-5598ce98",
+ "title": "g5ua",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  9,
+  15,
+  26,
+  42,
+  29,
+  35
+ ],
+ "mechanics": [
+  "keydoor",
+  "hazard"
+ ],
+ "seed": 1003,
+ "goal": "keys",
+ "variant": "consequence",
+ "pair_seed": 1003
+}

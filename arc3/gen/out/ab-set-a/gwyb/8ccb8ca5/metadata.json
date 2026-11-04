@@ -1,0 +1,22 @@
+{
+ "game_id": "gwyb-8ccb8ca5",
+ "title": "gwyb",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  26,
+  14,
+  36,
+  17,
+  17
+ ],
+ "mechanics": [
+  "keydoor",
+  "switch",
+  "teleporter"
+ ],
+ "seed": 133
+}

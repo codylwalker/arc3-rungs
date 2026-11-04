@@ -1,0 +1,23 @@
+{
+ "game_id": "gdty-134f827e",
+ "title": "gdty",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  14,
+  23,
+  17,
+  6,
+  6
+ ],
+ "mechanics": [
+  "hazard",
+  "oneway",
+  "snake",
+  "teleporter"
+ ],
+ "seed": 120
+}

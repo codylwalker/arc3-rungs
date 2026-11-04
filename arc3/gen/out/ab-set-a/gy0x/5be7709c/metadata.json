@@ -1,0 +1,21 @@
+{
+ "game_id": "gy0x-5be7709c",
+ "title": "gy0x",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  21,
+  18,
+  18,
+  24,
+  15,
+  18
+ ],
+ "mechanics": [
+  "switch",
+  "wrap"
+ ],
+ "seed": 123
+}

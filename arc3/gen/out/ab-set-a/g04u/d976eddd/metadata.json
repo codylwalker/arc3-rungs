@@ -1,0 +1,21 @@
+{
+ "game_id": "g04u-d976eddd",
+ "title": "g04u",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  14,
+  12,
+  17,
+  24,
+  26
+ ],
+ "mechanics": [
+  "hazard",
+  "ice"
+ ],
+ "seed": 125
+}

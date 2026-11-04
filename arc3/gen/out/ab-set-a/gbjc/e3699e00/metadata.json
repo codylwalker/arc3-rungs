@@ -1,0 +1,21 @@
+{
+ "game_id": "gbjc-e3699e00",
+ "title": "gbjc",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  12,
+  18,
+  17,
+  20,
+  29
+ ],
+ "mechanics": [
+  "hazard",
+  "ice"
+ ],
+ "seed": 117
+}

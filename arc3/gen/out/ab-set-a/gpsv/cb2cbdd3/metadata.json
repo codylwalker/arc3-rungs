@@ -1,0 +1,22 @@
+{
+ "game_id": "gpsv-cb2cbdd3",
+ "title": "gpsv",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  9,
+  14,
+  33,
+  33,
+  26,
+  32
+ ],
+ "mechanics": [
+  "ice",
+  "pushable",
+  "teleporter"
+ ],
+ "seed": 202
+}

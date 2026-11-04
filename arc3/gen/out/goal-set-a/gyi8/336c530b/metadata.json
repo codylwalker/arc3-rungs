@@ -1,0 +1,24 @@
+{
+ "game_id": "gyi8-336c530b",
+ "title": "gyi8",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  11,
+  20,
+  32,
+  32,
+  39
+ ],
+ "mechanics": [
+  "pushable",
+  "wrap"
+ ],
+ "seed": 2000,
+ "goal": "plates",
+ "variant": "consequence",
+ "pair_seed": 2000
+}

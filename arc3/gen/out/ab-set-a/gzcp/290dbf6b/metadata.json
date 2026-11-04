@@ -1,0 +1,23 @@
+{
+ "game_id": "gzcp-290dbf6b",
+ "title": "gzcp",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  9,
+  17,
+  17,
+  17,
+  17,
+  18
+ ],
+ "mechanics": [
+  "hazard",
+  "ice",
+  "keydoor",
+  "switch"
+ ],
+ "seed": 122
+}

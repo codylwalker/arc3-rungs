@@ -1,0 +1,21 @@
+{
+ "game_id": "g999-fc093ef8",
+ "title": "g999",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  17,
+  17,
+  21,
+  30,
+  29
+ ],
+ "mechanics": [
+  "hazard",
+  "keydoor"
+ ],
+ "seed": 100
+}

@@ -1,0 +1,22 @@
+{
+ "game_id": "g6jg-e150a6a8",
+ "title": "g6jg",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  14,
+  23,
+  32,
+  21,
+  24
+ ],
+ "mechanics": [
+  "hazard",
+  "switch",
+  "wrap"
+ ],
+ "seed": 112
+}

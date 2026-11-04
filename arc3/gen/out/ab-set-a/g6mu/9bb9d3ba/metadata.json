@@ -1,0 +1,20 @@
+{
+ "game_id": "g6mu-9bb9d3ba",
+ "title": "g6mu",
+ "default_fps": 30,
+ "tags": [
+  "click"
+ ],
+ "baseline_actions": [
+  5,
+  6,
+  6,
+  9,
+  8,
+  8
+ ],
+ "mechanics": [
+  "click_toggle_self"
+ ],
+ "seed": 200
+}

@@ -1,0 +1,22 @@
+{
+ "game_id": "guid-9561f5b4",
+ "title": "guid",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  12,
+  12,
+  17,
+  26,
+  23
+ ],
+ "mechanics": [
+  "ice",
+  "keydoor",
+  "wrap"
+ ],
+ "seed": 124
+}

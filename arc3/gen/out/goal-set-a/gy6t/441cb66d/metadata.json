@@ -1,0 +1,24 @@
+{
+ "game_id": "gy6t-441cb66d",
+ "title": "gy6t",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  17,
+  12,
+  23,
+  18,
+  23,
+  27
+ ],
+ "mechanics": [
+  "pushable",
+  "keydoor"
+ ],
+ "seed": 2001,
+ "goal": "plates",
+ "variant": "consequence",
+ "pair_seed": 2001
+}

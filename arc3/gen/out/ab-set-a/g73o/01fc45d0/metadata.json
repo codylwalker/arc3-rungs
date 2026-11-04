@@ -1,0 +1,23 @@
+{
+ "game_id": "g73o-01fc45d0",
+ "title": "g73o",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  15,
+  20,
+  30,
+  23,
+  20,
+  24
+ ],
+ "mechanics": [
+  "hazard",
+  "oneway",
+  "switch",
+  "teleporter"
+ ],
+ "seed": 126
+}

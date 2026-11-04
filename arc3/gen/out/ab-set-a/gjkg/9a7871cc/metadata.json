@@ -1,0 +1,21 @@
+{
+ "game_id": "gjkg-9a7871cc",
+ "title": "gjkg",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  15,
+  15,
+  17,
+  20,
+  29,
+  29
+ ],
+ "mechanics": [
+  "oneway",
+  "snake"
+ ],
+ "seed": 137
+}

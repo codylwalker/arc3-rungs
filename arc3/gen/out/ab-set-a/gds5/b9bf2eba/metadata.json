@@ -1,0 +1,22 @@
+{
+ "game_id": "gds5-b9bf2eba",
+ "title": "gds5",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  26,
+  12,
+  27,
+  26,
+  17
+ ],
+ "mechanics": [
+  "oneway",
+  "switch",
+  "teleporter"
+ ],
+ "seed": 132
+}

@@ -1,0 +1,24 @@
+{
+ "game_id": "gsg6-0f0bc7f8",
+ "title": "gsg6",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  11,
+  9,
+  17,
+  23,
+  38
+ ],
+ "mechanics": [
+  "keydoor",
+  "teleporter"
+ ],
+ "seed": 1004,
+ "goal": "keys",
+ "variant": "consequence",
+ "pair_seed": 1004
+}

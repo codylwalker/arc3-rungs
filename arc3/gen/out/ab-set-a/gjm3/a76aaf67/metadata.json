@@ -1,0 +1,23 @@
+{
+ "game_id": "gjm3-a76aaf67",
+ "title": "gjm3",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  14,
+  15,
+  18,
+  9,
+  18,
+  20
+ ],
+ "mechanics": [
+  "hazard",
+  "keydoor",
+  "oneway",
+  "teleporter"
+ ],
+ "seed": 142
+}

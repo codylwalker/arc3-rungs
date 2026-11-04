@@ -1,0 +1,24 @@
+{
+ "game_id": "gpdf-408db662",
+ "title": "gpdf",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  18,
+  15,
+  18,
+  26,
+  35,
+  51
+ ],
+ "mechanics": [
+  "keydoor",
+  "oneway"
+ ],
+ "seed": 1002,
+ "goal": "keys",
+ "variant": "consequence",
+ "pair_seed": 1002
+}

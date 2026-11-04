@@ -1,0 +1,20 @@
+{
+ "game_id": "gjc4-b467b3b8",
+ "title": "gjc4",
+ "default_fps": 30,
+ "tags": [
+  "click"
+ ],
+ "baseline_actions": [
+  5,
+  6,
+  6,
+  6,
+  8,
+  12
+ ],
+ "mechanics": [
+  "click_toggle_rowcol"
+ ],
+ "seed": 203
+}

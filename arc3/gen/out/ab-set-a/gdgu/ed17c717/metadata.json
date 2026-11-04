@@ -1,0 +1,21 @@
+{
+ "game_id": "gdgu-ed17c717",
+ "title": "gdgu",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  15,
+  18,
+  24,
+  29,
+  26
+ ],
+ "mechanics": [
+  "oneway",
+  "snake"
+ ],
+ "seed": 104
+}

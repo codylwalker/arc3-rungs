@@ -1,0 +1,22 @@
+{
+ "game_id": "gf18-90af91d8",
+ "title": "gf18",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  14,
+  21,
+  18,
+  23,
+  24,
+  17
+ ],
+ "mechanics": [
+  "keydoor",
+  "switch",
+  "wrap"
+ ],
+ "seed": 135
+}

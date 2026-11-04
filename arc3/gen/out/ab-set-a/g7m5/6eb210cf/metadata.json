@@ -1,0 +1,21 @@
+{
+ "game_id": "g7m5-6eb210cf",
+ "title": "g7m5",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  15,
+  12,
+  6,
+  18,
+  8,
+  9
+ ],
+ "mechanics": [
+  "ice",
+  "teleporter"
+ ],
+ "seed": 138
+}

@@ -1,0 +1,23 @@
+Third-party notice
+
+This repository is released under MIT-0 (code) and CC0 1.0 (data); see LICENSE and LICENSE-DATA.md.
+
+The harness changes in entry/ patch a third-party harness: the ARC-AGI-3 Milestone 2 solution by Daniel
+Franzen (https://github.com/da-fr/arc-agi-3-solution), licensed under the Apache License, Version 2.0, which
+builds on Tufa Labs' Duck harness and the Tufa ARC-AGI Framework (https://github.com/Tufalabs/duck-harness).
+No file of that harness is included here.
+
+To find the places they patch, these files carry short verbatim lines of that harness and of its competition
+notebook, used as match anchors:
+
+- entry/harness/apply_twin.py
+- entry/kaggle/build_kernels.py
+- entry/kaggle/build_fp8_variant.py
+- entry/kaggle/build_gen_variant.py
+- entry/kaggle/build_m_variant.py
+
+Those anchor lines remain under the Apache License, Version 2.0
+(https://www.apache.org/licenses/LICENSE-2.0). Everything else in those files is MIT-0.
+
+entry/priority_dprime.py is our implementation of the D' slot-priority formula that the team Affectify
+published in their Kaggle notebook "ARC-AGI-3 Milestone 2 Solution with a new slot priority (D')".

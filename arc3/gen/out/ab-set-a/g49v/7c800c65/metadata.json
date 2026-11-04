@@ -1,0 +1,22 @@
+{
+ "game_id": "g49v-7c800c65",
+ "title": "g49v",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  14,
+  15,
+  26,
+  21,
+  23,
+  24
+ ],
+ "mechanics": [
+  "keydoor",
+  "oneway",
+  "snake"
+ ],
+ "seed": 110
+}

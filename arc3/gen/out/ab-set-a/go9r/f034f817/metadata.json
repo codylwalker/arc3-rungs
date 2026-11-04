@@ -1,0 +1,22 @@
+{
+ "game_id": "go9r-f034f817",
+ "title": "go9r",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  15,
+  15,
+  20,
+  21,
+  27
+ ],
+ "mechanics": [
+  "hazard",
+  "oneway",
+  "snake"
+ ],
+ "seed": 103
+}

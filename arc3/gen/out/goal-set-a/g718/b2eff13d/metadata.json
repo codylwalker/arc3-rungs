@@ -1,0 +1,24 @@
+{
+ "game_id": "g718-b2eff13d",
+ "title": "g718",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  5,
+  12,
+  24,
+  18,
+  35,
+  38
+ ],
+ "mechanics": [
+  "keydoor",
+  "ice"
+ ],
+ "seed": 1000,
+ "goal": "keys",
+ "variant": "signalled",
+ "pair_seed": 1000
+}

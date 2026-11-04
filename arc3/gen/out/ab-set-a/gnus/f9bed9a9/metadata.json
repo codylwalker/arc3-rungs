@@ -1,0 +1,21 @@
+{
+ "game_id": "gnus-f9bed9a9",
+ "title": "gnus",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  20,
+  24,
+  36,
+  51,
+  39,
+  44
+ ],
+ "mechanics": [
+  "pushable",
+  "state_flip"
+ ],
+ "seed": 200
+}
