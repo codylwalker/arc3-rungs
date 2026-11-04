@@ -1,0 +1,21 @@
+{
+ "game_id": "gcet-2755c0a6",
+ "title": "gcet",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  18,
+  21,
+  23,
+  26,
+  38
+ ],
+ "mechanics": [
+  "ice",
+  "switch"
+ ],
+ "seed": 108
+}

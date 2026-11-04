@@ -1,0 +1,21 @@
+{
+ "game_id": "gokb-2538b789",
+ "title": "gokb",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  18,
+  26,
+  33,
+  29,
+  57,
+  42
+ ],
+ "mechanics": [
+  "pushable",
+  "wrap"
+ ],
+ "seed": 203
+}

@@ -1,0 +1,20 @@
+{
+ "game_id": "g7j9-60e1d03a",
+ "title": "g7j9",
+ "default_fps": 30,
+ "tags": [
+  "click"
+ ],
+ "baseline_actions": [
+  3,
+  6,
+  8,
+  5,
+  5,
+  9
+ ],
+ "mechanics": [
+  "click_toggle_rowcol"
+ ],
+ "seed": 201
+}

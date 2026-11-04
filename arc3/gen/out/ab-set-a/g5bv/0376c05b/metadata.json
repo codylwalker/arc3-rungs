@@ -1,0 +1,21 @@
+{
+ "game_id": "g5bv-0376c05b",
+ "title": "g5bv",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  8,
+  11,
+  14,
+  12,
+  14,
+  21
+ ],
+ "mechanics": [
+  "ice",
+  "wrap"
+ ],
+ "seed": 113
+}

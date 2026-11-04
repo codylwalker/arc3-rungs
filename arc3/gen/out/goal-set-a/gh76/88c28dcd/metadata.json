@@ -1,0 +1,24 @@
+{
+ "game_id": "gh76-88c28dcd",
+ "title": "gh76",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  9,
+  15,
+  26,
+  42,
+  29,
+  35
+ ],
+ "mechanics": [
+  "keydoor",
+  "hazard"
+ ],
+ "seed": 1003,
+ "goal": "keys",
+ "variant": "signalled",
+ "pair_seed": 1003
+}

@@ -1,0 +1,21 @@
+{
+ "game_id": "g5bu-3c8e8606",
+ "title": "g5bu",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  15,
+  17,
+  20,
+  38,
+  30
+ ],
+ "mechanics": [
+  "hazard",
+  "oneway"
+ ],
+ "seed": 107
+}

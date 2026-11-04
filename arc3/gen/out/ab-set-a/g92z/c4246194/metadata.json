@@ -1,0 +1,23 @@
+{
+ "game_id": "g92z-c4246194",
+ "title": "g92z",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  9,
+  12,
+  17,
+  8,
+  12,
+  18
+ ],
+ "mechanics": [
+  "ice",
+  "keydoor",
+  "oneway",
+  "teleporter"
+ ],
+ "seed": 129
+}

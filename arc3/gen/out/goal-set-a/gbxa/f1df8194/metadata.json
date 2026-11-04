@@ -1,0 +1,24 @@
+{
+ "game_id": "gbxa-f1df8194",
+ "title": "gbxa",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  18,
+  29,
+  26,
+  26,
+  30
+ ],
+ "mechanics": [
+  "pushable",
+  "wrap"
+ ],
+ "seed": 2004,
+ "goal": "plates",
+ "variant": "consequence",
+ "pair_seed": 2004
+}

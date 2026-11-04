@@ -1,0 +1,24 @@
+{
+ "game_id": "gv96-99898d9a",
+ "title": "gv96",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  17,
+  12,
+  23,
+  18,
+  23,
+  27
+ ],
+ "mechanics": [
+  "pushable",
+  "keydoor"
+ ],
+ "seed": 2001,
+ "goal": "plates",
+ "variant": "signalled",
+ "pair_seed": 2001
+}

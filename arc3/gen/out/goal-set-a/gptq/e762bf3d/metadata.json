@@ -1,0 +1,24 @@
+{
+ "game_id": "gptq-e762bf3d",
+ "title": "gptq",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  8,
+  6,
+  24,
+  39,
+  33,
+  23
+ ],
+ "mechanics": [
+  "pushable",
+  "hazard"
+ ],
+ "seed": 2003,
+ "goal": "plates",
+ "variant": "consequence",
+ "pair_seed": 2003
+}

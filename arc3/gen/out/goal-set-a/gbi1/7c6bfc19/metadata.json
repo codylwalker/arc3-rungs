@@ -1,0 +1,24 @@
+{
+ "game_id": "gbi1-7c6bfc19",
+ "title": "gbi1",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  11,
+  20,
+  32,
+  32,
+  39
+ ],
+ "mechanics": [
+  "pushable",
+  "wrap"
+ ],
+ "seed": 2000,
+ "goal": "plates",
+ "variant": "signalled",
+ "pair_seed": 2000
+}

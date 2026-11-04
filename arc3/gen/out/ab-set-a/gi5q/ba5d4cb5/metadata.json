@@ -1,0 +1,22 @@
+{
+ "game_id": "gi5q-ba5d4cb5",
+ "title": "gi5q",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  9,
+  11,
+  6,
+  12,
+  12,
+  20
+ ],
+ "mechanics": [
+  "ice",
+  "oneway",
+  "teleporter"
+ ],
+ "seed": 106
+}

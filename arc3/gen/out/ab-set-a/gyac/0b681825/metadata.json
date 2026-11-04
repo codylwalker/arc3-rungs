@@ -1,0 +1,21 @@
+{
+ "game_id": "gyac-0b681825",
+ "title": "gyac",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  9,
+  18,
+  18,
+  18,
+  24,
+  30
+ ],
+ "mechanics": [
+  "ice",
+  "oneway"
+ ],
+ "seed": 127
+}

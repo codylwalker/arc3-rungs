@@ -1,0 +1,21 @@
+{
+ "game_id": "gm9s-d19c15a3",
+ "title": "gm9s",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  15,
+  20,
+  21,
+  24,
+  26
+ ],
+ "mechanics": [
+  "hazard",
+  "ice"
+ ],
+ "seed": 139
+}

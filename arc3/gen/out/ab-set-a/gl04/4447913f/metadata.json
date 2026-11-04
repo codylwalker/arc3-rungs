@@ -1,0 +1,23 @@
+{
+ "game_id": "gl04-4447913f",
+ "title": "gl04",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  12,
+  15,
+  17,
+  26,
+  18,
+  18
+ ],
+ "mechanics": [
+  "ice",
+  "keydoor",
+  "state_flip",
+  "teleporter"
+ ],
+ "seed": 300
+}

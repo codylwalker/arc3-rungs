@@ -1,0 +1,29 @@
+{
+  "note": "Hand-written from docs/arc3-paper-2026-11/paper.md (built 2026-11-04; three claims corrected to its 2026-11-06 text). export_demo.py copies this file verbatim into static/demo/index.json; it derives nothing from it.",
+  "claims": [
+    {"id": "levels", "text": "On the ten goal pairs, five passes each, the harness cleared 596 of the 600 level-passes.", "value": [596, 600], "source": "paper, abstract and section 4.4"},
+    {"id": "control", "text": "The signalled variant cleared 99.3% of its levels (the pre-registered control, P-G5).", "value": 0.993, "source": "paper, section 4.4"},
+    {"id": "goal_cost", "text": "On the levels both variants completed, the consequence variant cost 1.08 times as much per completed level [0.97, 1.20] (P-G2).", "value": 1.08, "ci": [0.97, 1.20], "source": "paper, section 4.4"},
+    {"id": "goal_levels", "text": "The two variants completed the same levels in every pair (P-G1: 0.0 [0, 0]).", "value": 0.0, "ci": [0, 0], "source": "paper, section 4.4"},
+    {"id": "placebo", "text": "Two runs of the identical notebook on the 41 dynamics-only games differed in cost per completed level by +4.9% [-8.2, +20.3]: the placebo every comparison is read against.", "value": 0.049, "ci": [-0.082, 0.203], "source": "paper, section 4.3"},
+    {"id": "cost_repeats", "text": "Two identical runs agreed on each game's token count at Spearman 0.79 and on each game's score at 0.56, and at 0.82 on token counts over the 17 games both scored 100; they shared none of their unfinished games, which chance alone gives four times in five.", "value": [0.79, 0.56], "source": "paper, section 4.2"},
+    {"id": "dynamics", "text": "On the 41 dynamics-only games the base harness cleared 239 of 246 levels (97%) and played 42% of its solved levels at the certified optimum.", "value": [239, 246], "source": "paper, section 4.1"},
+    {"id": "own_search", "text": "In 40 of the 41 games, and all 41 in the repeat, the model's own code defined a search (a queue, the word bfs, or a routine named for solving or searching), as the harness's prompt advises.", "value": [40, 41], "source": "paper, section 4.1"}
+  ],
+  "certifies": {
+    "does": [
+      "Every level's optimum: the shortest winning action sequence, found by breadth-first search over the game's exported state, and replayed through the game before the game was kept (replay_ok).",
+      "The human-style baseline (1.5 times the optimum, rounded up) and the budget (3 times the optimum) that the game's HUD bar counts down.",
+      "That the two games of a pair share every rule, every optimum and every certified path; they differ in the HUD's goal row only."
+    ],
+    "does_not": [
+      "That the certified path is the only optimal path.",
+      "How hard a level is for a person: the baseline is a rule, not a measurement.",
+      "Anything about the competition's hidden games: these games are easier than the public set and were built to be read, not to predict it."
+    ]
+  },
+  "harness": {
+    "label": "the submitted harness: an open notebook (Franzen's Milestone 2) with the D' slot priority, a 4-bit open-weights model under the contest's one GPU; 40 minutes a game, ten games at a time, five passes",
+    "note": "The rows are the per-game numbers the paper reports (levels completed, actions per level, score, per pass). No transcript, no notebook output and no token count is exported."
+  }
+}

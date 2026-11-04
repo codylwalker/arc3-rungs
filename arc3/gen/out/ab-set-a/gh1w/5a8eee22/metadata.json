@@ -1,0 +1,22 @@
+{
+ "game_id": "gh1w-5a8eee22",
+ "title": "gh1w",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  8,
+  14,
+  26,
+  17,
+  23,
+  26
+ ],
+ "mechanics": [
+  "ice",
+  "keydoor",
+  "state_flip"
+ ],
+ "seed": 301
+}

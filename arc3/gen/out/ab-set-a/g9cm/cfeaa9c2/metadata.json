@@ -1,0 +1,21 @@
+{
+ "game_id": "g9cm-cfeaa9c2",
+ "title": "g9cm",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  11,
+  14,
+  18,
+  18,
+  29,
+  27
+ ],
+ "mechanics": [
+  "hazard",
+  "snake"
+ ],
+ "seed": 102
+}

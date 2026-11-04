@@ -1,0 +1,20 @@
+{
+ "game_id": "geja-aba7804b",
+ "title": "geja",
+ "default_fps": 30,
+ "tags": [
+  "click"
+ ],
+ "baseline_actions": [
+  3,
+  6,
+  5,
+  9,
+  15,
+  9
+ ],
+ "mechanics": [
+  "click_move"
+ ],
+ "seed": 204
+}

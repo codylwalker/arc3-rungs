@@ -1,0 +1,24 @@
+{
+ "game_id": "gcdp-9d118566",
+ "title": "gcdp",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  21,
+  12,
+  14,
+  33,
+  36,
+  51
+ ],
+ "mechanics": [
+  "keydoor",
+  "teleporter"
+ ],
+ "seed": 1001,
+ "goal": "keys",
+ "variant": "consequence",
+ "pair_seed": 1001
+}

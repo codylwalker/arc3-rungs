@@ -1,0 +1,23 @@
+{
+ "game_id": "g3bu-6340c673",
+ "title": "g3bu",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  8,
+  12,
+  14,
+  23,
+  17,
+  6
+ ],
+ "mechanics": [
+  "ice",
+  "keydoor",
+  "oneway",
+  "switch"
+ ],
+ "seed": 147
+}

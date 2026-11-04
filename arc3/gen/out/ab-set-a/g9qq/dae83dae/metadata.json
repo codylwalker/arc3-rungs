@@ -1,0 +1,21 @@
+{
+ "game_id": "g9qq-dae83dae",
+ "title": "g9qq",
+ "default_fps": 30,
+ "tags": [
+  "keyboard"
+ ],
+ "baseline_actions": [
+  18,
+  24,
+  21,
+  21,
+  26,
+  27
+ ],
+ "mechanics": [
+  "switch",
+  "teleporter"
+ ],
+ "seed": 118
+}
